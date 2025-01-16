@@ -69,5 +69,4 @@ Aşağıdaki pin bağlantıları gereklidir:
 ### 7. `delayMs`
 - Gecikme süresi sağlar (milisaniye cinsinden).
 
-## Örnek Çıktı
-16x2 LCD ekranın ikinci satırında saat bilgisi aşağıdaki gibi gösterilecektir:
+
